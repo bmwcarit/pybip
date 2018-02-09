@@ -1,6 +1,6 @@
+# Copyright (c) 2018 Kannan Subramani <Kannan.Subramani@bmw.de>
+# SPDX-License-Identifier: GPL-3.0
 # -*- coding: utf-8 -*-
-# Copyright (C) 2018. BMW Car IT GmbH. (Kannan.Subramani@bmw.de)
-# Licensed under the GPL-3.0. Look into the License.txt for more information.
 """Implementation of bipserver ( for cover art of AVRCP, only contains Image pull feature )"""
 
 import argparse
